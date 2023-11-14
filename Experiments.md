@@ -20,6 +20,8 @@ DNA Clean & Concentrator kit (Zymo Research, Orange, CA, USA, D4034).
 For the T24, BdEC, and SV-HUC-1 cell lines, ChIP and input DNA were sent to the EMBL GeneCore facility for library preparation and sequencing. A NEBNext DNA Ultra II kit 
 was used for library preparation. The libraries were sequenced on a Nextseq 500 platform using 75bp SE high-output mode.
 
+![image](https://github.com/guldenozden/KDM6A/assets/147516133/06ba0f0b-dca9-46a2-9610-f2e52ca64a5b)
+
 **RT-qPCR**
 Total RNAs were isolated using an MN Nucleospin RNA kit from each cell line. A total of 0.25 µg RNA was used for cDNA conversion using a Maxima First Strand cDNA Synthesis 
 Kit. PCR was performed using the Applied Biosystems 7500 Fast Real-Time machine with a Roche FastStart Essential DNA Green Master (SYBR, Roche, Penzberg, Germany) kit for 
@@ -43,10 +45,14 @@ for one hour at room temperature. KDM6A (CST 33510), HES1 (CST 11988), TLE1/2/3/
 one and a half hours at room temperature with the b-actin antibody. Secondary antibody incubations were performed for one hour at room temperature. The membrane was imaged using 
 the Li-COR ODYSSEY Clx machine (LiCOR, Lincoln, NE, USA) in auto mode.
 
+![image](https://github.com/guldenozden/KDM6A/assets/147516133/bf907e22-2573-4575-b9a5-a6f017b70659)
+
 **Identification of KDM6A Mutation**
 DNA was extracted from the cell lines BdEC, T24, and SV-HUC-1 using a ZymoResearch (Irvine, CA, USA) Quick DNA Miniprep Plus kit (D4068). Mutation analysis was performed using the 
 Archer VariantPlex Myeloid Panel (Diagnostica Longwood, Zaragoza, Spain), an NGS panel containing the KDM6A gene. Mutation calling was performed  using ArcherDx Analysis (Version 6.2.7)
 with default settings using the Gen-ERA NGS service.
+
+![image](https://github.com/guldenozden/KDM6A/assets/147516133/3e228708-1f5d-4bbf-a20a-d981e258ebae)
 
 **Plasmid Constructs and Transfection**
 To generate the FLAG-KDM6A construct, a pCMV_HA_UTX (Addgene, Plasmid #24168, Watertown, MA, USA) vector was digested for 2 h at 37 ◦C using Kpn1 and Not1 restriction 
@@ -68,3 +74,5 @@ HEK293T cell lysates were used. Remaining proteins were bound overnight at 4 ◦
 manufacturer’s instructions. After the incubation, IP proteins were centrifuged, and pellets were washed with TBS three times. Proteins for both input and IP fractions were boiled 
 with SDS Sample Buffer (62.5 nM Tris-HCl pH:6.8, 2%SDS, 10%(v/v) Glycerol and 0.002% Bromophenol Blue) at 95 ◦C for 3 min and analyzed by Western blotting. KDM6A (CST 33510), 
 HES1 (CST 11988) and TLE1/2/3/4 (CST 4681S) antibodies were used for Western blotting.
+
+![image](https://github.com/guldenozden/KDM6A/assets/147516133/484d2a74-abc4-4db7-b9bc-2a12deed6861)
