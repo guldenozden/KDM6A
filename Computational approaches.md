@@ -16,6 +16,9 @@ for the clustering analysis. Before clustering, CPM counts were normalized for t
 clustering was performed using the “pheatmap package” (https://cran.r-project.org/web/packages/ pheatmap/index.html, accessed on 15 March 2021) in R. Clusters were determined 
 and visualized using the cutree = 4 option in the package.
 
+![image](https://github.com/guldenozden/KDM6A/assets/147516133/47274420-97ad-46c2-95e2-807c2b2af2b4)
+
+
 **Analysis of T24 KDM6A Peaks**
 The TSS ±2 kb filtered peaks in the Venn Diagram were used for the analysis. Peaks were ranked according to their CPM normalized log2 values for each cluster. The pheatmap
 R package was used for visualization.
@@ -23,6 +26,9 @@ R package was used for visualization.
 **Transcription Factor Motif Finding**
 Transcription factor motif finding for different KDM6A clusters was performed using the findMotifsGenome.pl command of HOMER (http://homer.ucsd.edu/homer/motif/, accessed on 
 17 March 2021), with a size parameter of 300, using genomic positions.
+
+![image](https://github.com/guldenozden/KDM6A/assets/147516133/9803ebae-1b04-4486-8985-f2f2f325ecb4)
+
 
 **Gene Ontology Analysis**
 Gene Ontology (GO) term analysis was performed using ConsensusPathDB (http://cpdb.molgen.mpg.de/, accessed on 22 March 2021) with a GO Level of 3 and biological process (BP) 
@@ -49,6 +55,9 @@ and phenotype-curated survival data (n = 436) belonging to a TCGA Bladder Cancer
 (n = 382) were included in the Kaplan–Meier graphs. Low/high expression groups were formed by calculating the median values for HES1 and HHEX genes separately. Kaplan–Meier graphs 
 were created using a log-rank test according to OS.time values. The coin (https://cran.r-project.org/web/packages/coin/index.html, accessed on 4 January 2022) (version 1.4-2) and
 survival (https://cran.r-project.org/web/packages/survival/index.html, accessed on 4 January 2022) (version 3.2-7) R packages were used for the analysis.
+
+![image](https://github.com/guldenozden/KDM6A/assets/147516133/735bc026-60d4-494b-86c9-9223fbfdd567)
+
 
 **Comparison of T24 KDM6A Peaks with Published Data**
 To compare the KDM6A peak profile in the T24 cell line to a wild-type KDM6A peak profile called in a bladder cancer cell line, published WT KDM6A-expressing UMUC-1 bladder cancer 
