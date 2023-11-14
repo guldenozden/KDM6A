@@ -23,3 +23,4 @@ In this study, we mapped the localization profile of KDM6A in normal, immortal a
 **Importance of our study**
 To our knowledge, this is the first study comparing the occupancy of KDM6A in normal, immortalized and cancer bladder cells with endogenous mutation in KDM6A and, for the first time highlighting the association of KDM6A with TLE1 and HES1. We think that our findings contribute substantially to the understanding of the molecular mechanisms associated with KDM6A function and its interacting protein partners. 
 
+This study was funded by the L’Oreal-UNESCO National for Women in Science Program, the L’Oreal-UNESCO International Rising Talent Program, and the Scientific and Technological Research Council of Turkey (TÜB˙ITAK). Serap Erkek-Ozhan and Ezgi Karaca were supported by the EMBO Installation Grant (Nos. 4148 and 4421, respectively).
