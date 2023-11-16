@@ -1,7 +1,6 @@
 
 **Code for generating the heatmap in Figure 1D**
 
-[Usetwd("C:/Users/gulden.ozden/Desktop/Loreal_Chip-seq_data_22.01.21/narrowPeak/consensus/KDM6A")
 peaks<-read.delim("KDM6A.consensus_peaks.boolean.annotatePeaks.txt")
 featurecounts<-read.table("KDM6A.consensus_peaks.featureCounts.txt",header = T)
 
